@@ -1,0 +1,16 @@
+Comment,Description,Designator,Footprint,Quantity
+Res3,Resistor,2k2,1608[0603],1
+22uF,Capacitor,"C1, C2",1608[0603],2
+CONN SOCKET 20x2,Pi 40 pin 2.54mm connector,J1,,1
+GPIO Connector,Phoenix Connect,J2,1757242,1
+Video Output,Phoenix Connect,J3,1757271,1
+499 1%,,"R1, R7, R13",1608[0603],3
+1K,,"R2, R8, R14",1608[0603],3
+2K,,"R3, R9, R15",1608[0603],3
+4K,,"R4, R10, R16",1608[0603],3
+8K,,"R5, R11, R17",1608[0603],3
+16K,,"R6, R12, R18",1608[0603],3
+120,,"R19, R20",1608[0603],2
+2k2,Resistor,R21,1608[0603],1
+TrimPot,15k,"T1, T2, T3",3Wire_Trimpot,3
+SN74LVC1G86DBVR,"Single 2-Input Exclusive-OR Gate, DBV0005A, LARGE T&R","U1, U2, U3, U4",DBV0005A_N,4
